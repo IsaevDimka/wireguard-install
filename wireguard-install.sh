@@ -2,7 +2,7 @@
 #
 # https://github.com/IsaevDimka/wireguard-install
 #
-# Copyright (c) 2020 Nyr. Released under the MIT License.
+# Copyright (c) 2022 IsaevDimka. Released under the MIT License.
 
 
 # Detect Debian users running the script with "sh" instead of bash
