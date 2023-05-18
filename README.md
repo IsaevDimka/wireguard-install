@@ -11,7 +11,7 @@ Run the script and follow the assistant:
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall WireGuard.
 
 ### I want to run my own VPN but don't have a server for that
-You can get a VPS from just 490₽/month at [vds.sh](http://vds.sh/?u=44957).
+You can get a VPS from just €5.22/month at [aéza](https://aeza.net/?ref=385601).
 
 ### Donations
 
