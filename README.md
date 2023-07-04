@@ -15,4 +15,4 @@ You can get a VPS from just €5.22/month at [aéza](https://aeza.net/?ref=38560
 
 ### Donations
 
-If you want to show your appreciation, you can donate via [Patreon](https://patreon.com/isaevdimka) or [TON](ton://transfer/EQApG6ILPC2-4UeUXth6XLi9zGMzWNQQpBedpOMk7pzcNKEy). Thanks!
+If you want to show your appreciation, you can donate via [Patreon](https://patreon.com/isaevdimka) or TON `EQApG6ILPC2-4UeUXth6XLi9zGMzWNQQpBedpOMk7pzcNKEy`. Thanks!
